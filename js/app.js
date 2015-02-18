@@ -16,6 +16,6 @@ angular.module('firstApp', [])
       colour: vm.computerData.colour,
       nerdness: vm.computerData.nerdness
     });
-    vm.computerData = {};
+    // vm.computerData = {};
   }
 });
